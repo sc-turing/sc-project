@@ -2,16 +2,16 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my *[DEMO VIDEO!](https://drive.google.com/file/d/17WX2hSAwdRAZr9NfczIKuWauk_eG5VjD/view?usp=sharing)*
+Watch my *[DEMO VIDEO!](paste your video link here)*
 
 ## Projects List:
-* [Hangman_game]()
+* [Hangman_game](paste your file link here)
   * python semantics&syntax
-* [MyPhotoshop]()
+* [MyPhotoshop](paste your file link here)
   * image processing
-* [Bouncing_Ball_Game]()
+* [Bouncing_Ball_Game](paste your file link here)
   * game designing
-* [Name_Popularity_Searching_System]()
+* [Name_Popularity_Searching_System](paste your file link here)
   * data structure
-* [Boggle_Game_Solver]()
+* [Boggle_Game_Solver](paste your file link here)
   * recursion concepts
